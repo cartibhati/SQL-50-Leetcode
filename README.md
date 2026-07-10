@@ -12,4 +12,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/cartibhati/SQL-50-Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/cartibhati/SQL-50-Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/cartibhati/SQL-50-Leetcode/tree/master/1683-invalid-tweets) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/cartibhati/SQL-50-Leetcode/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/cartibhati/SQL-50-Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/cartibhati/SQL-50-Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/cartibhati/SQL-50-Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
